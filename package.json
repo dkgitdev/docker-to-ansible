@@ -1,0 +1,4 @@
+{
+  "name": "docker-to-ansible",
+  "packageManager": "yarn@4.12.0"
+}
